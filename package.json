@@ -12,12 +12,19 @@
         ],
         "displayName": "Dash Test",
         "enableMultiJS": true,
-        "messageKeys": [],
+        "messageKeys": [
+            "Message"
+        ],
         "projectType": "native",
         "resources": {
             "media": []
         },
         "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
         "uuid": "1299af1d-7ac5-474f-b560-b00dde308e1f",
         "watchapp": {
             "watchface": false
